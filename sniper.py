@@ -26,7 +26,32 @@ USERNAMES_TO_CHECK = [
     "x9qz", "z7wk", "k3mj", "v2xw", "j5nc", "p8dh", "d4sf", "h6rt", "f1mp", "m9zq",
     "q2wx", "w5jc", "x8vb", "c3bh", "b7fn", "n4dl", "l6tp", "t1ms", "s9rx", "r29x",
     "q_x9z", "z_w7k", "e_c3d", "r_v4f", "t_b5g", "y_n6h", "u_m7j", "i_l8k", "o_p9l", "a_z1q",
-    "b_x9_", "z_q7_", "k_m3_", "v_w2_", "j_x5_", "n_p8_", "l_d4_", "s_h6_", "t_f1_", "r_m9_"
+    "b_x9_", "z_q7_", "k_m3_", "v_w2_", "j_x5_", "n_p8_", "l_d4_", "s_h6_", "t_f1_", "r_m9_
+    # 3-character alphanumeric combinations (New batch)
+    "b1c", "d2e", "f3g", "h4i", "j5k", "l6m", "n7o", "p8q", "r9s", "t0u",
+    "v1w", "x2y", "z3a", "b4c", "d5e", "f6g", "h7i", "j8k", "l9m", "n0o",
+    "p1q", "r2s", "t3u", "v4w", "x5y", "z6a", "b7c", "d8e", "f9g", "h0i",
+    "j1k", "l2m", "n3o", "p4q", "r5s", "t6u", "v7w", "x8y", "z9a", "m1n",
+    "k2l", "j3h", "h4g", "g5f", "f6d", "d7s", "s8a", "a9b", "b0c", "c1d",
+    
+    # 4-character alphanumeric combinations (New batch)
+    "a1b2", "c3d4", "e5f6", "g7h8", "i9j0", "k1l2", "m3n4", "o5p6", "q7r8", "s9t0",
+    "u1v2", "w3x4", "y5z6", "a7b8", "c9d0", "e1f2", "g3h4", "i5j6", "k7l8", "m9n0",
+    "ab12", "cd34", "ef56", "gh78", "ij90", "kl12", "mn34", "op56", "qr78", "st90",
+    "wx12", "yz34", "ba56", "dc78", "fe90", "hg12", "ji34", "lk56", "nm78", "po90",
+    "1a2b", "3c4d", "5e6f", "7g8h", "9i0j", "2k1l", "4m3n", "6o5p", "8q7r", "0s9t",
+    
+    # Complex underscore and letter mixes
+    "a_b1", "c_d2", "e_f3", "g_h4", "i_j5", "k_l6", "m_n7", "o_p8", "q_r9", "s_t0",
+    "1_ab", "2_cd", "3_ef", "4_gh", "5_ij", "6_kl", "7_mn", "8_op", "9_qr", "0_st",
+    "x_12", "y_34", "z_56", "a_78", "b_90", "c_21", "d_43", "e_65", "f_87", "g_09",
+    "h_98", "i_76", "j_54", "k_32", "l_10", "m_24", "n_36", "o_48", "p_50", "q_62",
+    
+    # Extra short unique variations
+    "x9_1", "z7_2", "k3_3", "v2_4", "j5_5", "p8_6", "d4_7", "h6_8", "f1_9", "m9_0",
+    "1_9x", "2_7k", "3_3m", "4_2w", "5_5j", "6_8p", "7_4d", "8_6h", "9_1f", "0_9m",
+    "ax_91", "sw_72", "dc_33", "fv_24", "gb_55", "hn_86", "jm_47", "kl_68", "lp_19", "qz_90",
+    "9x_1a", "7k_2c", "3m_3e", "5f_4g", "8z_5i", "4l_6k", "2h_7m", "6p_8o", "1n_9q", "0c_0s"
 ]
 
 async def send_telegram_alert(username):
