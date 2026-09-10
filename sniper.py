@@ -26,7 +26,7 @@ USERNAMES_TO_CHECK = [
     "x9qz", "z7wk", "k3mj", "v2xw", "j5nc", "p8dh", "d4sf", "h6rt", "f1mp", "m9zq",
     "q2wx", "w5jc", "x8vb", "c3bh", "b7fn", "n4dl", "l6tp", "t1ms", "s9rx", "r29x",
     "q_x9z", "z_w7k", "e_c3d", "r_v4f", "t_b5g", "y_n6h", "u_m7j", "i_l8k", "o_p9l", "a_z1q",
-    "b_x9_", "z_q7_", "k_m3_", "v_w2_", "j_x5_", "n_p8_", "l_d4_", "s_h6_", "t_f1_", "r_m9_
+    "b_x9_", "z_q7_", "k_m3_", "v_w2_", "j_x5_", "n_p8_", "l_d4_", "s_h6_", "t_f1_", "r_m9_",
     # 3-character alphanumeric combinations (New batch)
     "b1c", "d2e", "f3g", "h4i", "j5k", "l6m", "n7o", "p8q", "r9s", "t0u",
     "v1w", "x2y", "z3a", "b4c", "d5e", "f6g", "h7i", "j8k", "l9m", "n0o",
@@ -51,7 +51,7 @@ USERNAMES_TO_CHECK = [
     "x9_1", "z7_2", "k3_3", "v2_4", "j5_5", "p8_6", "d4_7", "h6_8", "f1_9", "m9_0",
     "1_9x", "2_7k", "3_3m", "4_2w", "5_5j", "6_8p", "7_4d", "8_6h", "9_1f", "0_9m",
     "ax_91", "sw_72", "dc_33", "fv_24", "gb_55", "hn_86", "jm_47", "kl_68", "lp_19", "qz_90",
-    "9x_1a", "7k_2c", "3m_3e", "5f_4g", "8z_5i", "4l_6k", "2h_7m", "6p_8o", "1n_9q", "0c_0s"
+    "9x_1a", "7k_2c", "3m_3e", "5f_4g", "8z_5i", "4l_6k", "2h_7m", "6p_8o", "1n_9q", "0c_0s",
 ]
 
 async def send_telegram_alert(username):
