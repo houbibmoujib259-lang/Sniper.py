@@ -25,9 +25,9 @@ USERNAMES_TO_CHECK = [
     "xx92", "kk77", "mm33", "ff55", "zz88", "ll44", "hh22", "pp66", "nn11", "cc00",
     "x9qz", "z7wk", "k3mj", "v2xw", "j5nc", "p8dh", "d4sf", "h6rt", "f1mp", "m9zq",
     "q2wx", "w5jc", "x8vb", "c3bh", "b7fn", "n4dl", "l6tp", "t1ms", "s9rx", "r29x",
-    "q_x9z", "z_w7k", "e_c3d", "r_v4f", "t_b5g", "y_n6h", "u_m7j", "i_l8k", "o_p9l", "a_z1q",
-    "b_x9_", "z_q7_", "k_m3_", "v_w2_", "j_x5_", "n_p8_", "l_d4_", "s_h6_", "t_f1_", "r_m9_",
-    # 3-character alphanumeric combinations (New batch)
+    "_q_x9z", "_z_w7k", "_e_c3d", "_r_v4f", "_t_b5g", "_y_n6h", "_u_m7j", "_i_18k", "_o_p91", "_a_z1q",
+    "_b_x9", "_z_q7", "_k_m3", "_v_w2", "_j_x5", "_n_p8", "_1_d4", "_s_h6", "_t_f1", "_r_m9_",
+    # 3-character alphanumeric combinations (New batch) ew
     "b1c", "d2e", "f3g", "h4i", "j5k", "l6m", "n7o", "p8q", "r9s", "t0u",
     "v1w", "x2y", "z3a", "b4c", "d5e", "f6g", "h7i", "j8k", "l9m", "n0o",
     "p1q", "r2s", "t3u", "v4w", "x5y", "z6a", "b7c", "d8e", "f9g", "h0i",
